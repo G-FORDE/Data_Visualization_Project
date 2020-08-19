@@ -1,0 +1,1 @@
+# Data_Visualization_Project: This is an interactive dashboard written in Python using Streamlit, Pandas, and Plotly. It tracks Twitter sentiments about US airlines. I use data visualization through pie charts and histograms to visualize the data README .md
